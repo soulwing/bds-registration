@@ -1,0 +1,26 @@
+{
+  "name": "BDS Registration",
+  "version": "0.0.0",
+  "license": "ASL",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "src/main/webapp/bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.2.23",
+    "angular-resource": "^1.2.23",
+    "angular-ui-router": "^0.2.11",
+    "angular-bootstrap": "0.11.0",
+    "angular-moment": "0.8.2",
+    "angular-strap": "^2.1.1",
+    "ng-file-upload": "^1.6.12",
+    "angular-typeahead": "^0.2.1"
+  },
+  "resolutions": {
+    "angular": "1.2.26"
+  }
+}
